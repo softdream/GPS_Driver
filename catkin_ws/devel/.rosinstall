@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/riki/Test/catkin_ws/devel/setup.sh

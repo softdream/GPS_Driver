@@ -1,0 +1,8 @@
+prefix=/home/riki/Test/catkin_ws/install
+
+Name: IntegratedNavigation
+Description: Description of IntegratedNavigation
+Version: 0.0.0
+Cflags: -I/home/riki/Test/catkin_ws/install/include
+Libs: -L/home/riki/Test/catkin_ws/install/lib 
+Requires: roscpp std_msgs message_runtime
