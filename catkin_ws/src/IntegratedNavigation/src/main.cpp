@@ -144,6 +144,7 @@ int main( int argc, char **argv )
                		        //printf( "age = %f\r\n", d21 );
 				recvMsg.Age = d21;
 
+				arr1.clear();
 				recvMsg.header.stamp = ros::Time::now();
 				pub.publish( recvMsg );
 			}
